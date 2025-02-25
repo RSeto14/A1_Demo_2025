@@ -15,33 +15,42 @@
 - PC
 - 適当な障害物
 
-### Step1
+### Step1：Xboxのコントローラをペアリング
 XboxのコントローラをPCにbluetoothまたは有線で接続（側面のペアリングボタンを長押し）
 
-### Step2
+### Step2：バッテリーをはめる
+
 Unitree A1 にバッテリーをはめる. この時、ガムテープでしっかり固定
 
-### Step3
+### Step3：電源を入れる
+
 Unitree A1 及び Unitree A1 コントローラの電源を入れる
 
 どちらも電源ボタンを2回連続で押す(2回目は起動するまで長押し)
 
-### Step4
-Unitree A1 コントローラで
-「L2 + A」を３回押してロボットの姿勢を低くする
+### Step4：A1をPassiveモードにする
+
+Unitree A1 コントローラで「L2 + A」を３回押してロボットの姿勢を低くする
 
 「L2 + B」で伏せる
 
-### Step5
-Unitree A1のWifiに接続
+### Step5：Unitree A1のWifiに接続
+
 
 ```
 WI-FI: UnitreeRoboticsA1-620
 Password: 00000000
 ```
 
-### Step6
-Scripts/server.pyを実行
+### Step6：Scripts/server.pyを実行
+
+
+下のアイコンをダブルクリック
+
+<img src="src/bat.png" width="100">
+
+または
+
 ```
 conda activate demo2025
 cd C:\Users\hayashibe-lab\A1_Demo_2025\Scripts
