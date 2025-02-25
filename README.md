@@ -1,4 +1,7 @@
 # Unitree A1 Demo 2025
+<img src="src/Demo.gif" width="600">
+
+[学習用コード](https://github.com/RSeto14/A1Genesis.git)
 
 ## Quick Start
 
@@ -25,9 +28,9 @@ Unitree A1 及び Unitree A1 コントローラの電源を入れる
 
 ### Step4
 Unitree A1 コントローラで
-「L2 + B」を３回押してロボットの姿勢を低くする
+「L2 + A」を３回押してロボットの姿勢を低くする
 
-「L2 + A」で伏せる
+「L2 + B」で伏せる
 
 ### Step5
 Unitree A1のWifiに接続
